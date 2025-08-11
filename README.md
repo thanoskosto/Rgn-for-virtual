@@ -1,0 +1,1 @@
+This project is a Random Number Generator (RNG) designed for virtual games similar to those offered by OPAP. It can be used to simulate match outcomes or game results based on chance, such as in virtual sports or other betting scenarios.
